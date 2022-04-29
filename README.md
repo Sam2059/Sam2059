@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Sam2059
+- 👀 I’m interested in Embedded Programing.
+- 🌱 I’m currently learning C programming language.
+- 😄 Pronouns: Him/He
+- 💞️ I’m here to share my projects with all of you and also get help from you!
+- 📫 How to reach me: -
+- You can reach me out at samarth2059@outlook.com for any doubts in c.
+- If you are looking to collaborate with me on a project, please email me at samarth2059@outlook.com
